@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianyu Niu"
+  name             : "Hanzheng Lyu"
   avatar           : "xxx.jpg"
   bio              : "Research Associate of Computer Science & Engineering Department, Southern University of Science and Technology"
   location         : "xxx, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=2BakBVcAAAAJ&hl=en"
-  email            : njianyu At gmail.com
+  googlescholar    : "https://scholar.google.com/xxx"
+  email            : xxx At gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   # bitbucket        : "donnod"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jianyu-Niu"
+  github           : "Hanzheng2021"
   google_plus      :
   keybase          :
   instagram        :
