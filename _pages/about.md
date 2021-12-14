@@ -14,7 +14,7 @@ I am currently a PhD student in the University of British Columbia (UBC), under 
 
 Conference Publications
 ------
-1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus**  
+1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus[Best paper award]**  
 **Hanzheng Lyu**, Jianyu Niu, Fangyu Gai and Chen Feng  
 _IEEE International Conference on Mobility, Sensing and Networking_, Virtual, Dec. 2021.
 
