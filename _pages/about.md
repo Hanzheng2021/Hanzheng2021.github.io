@@ -14,8 +14,9 @@ I am currently a PhD student in the University of British Columbia (UBC), under 
 
 Conference Publications
 ------
-1. **<small>[MSN'21]</small> Publish or Perish: Defending Withholding Attack in Dfinity Consensus[Best paper award]**  
-**Hanzheng Lyu**, Jianyu Niu, Fangyu Gai and Chen Feng  
-_IEEE International Conference on Mobility, Sensing and Networking_, Virtual, Dec. 2021.
+1. **Lyu H**, Xie S, Niu J, Feng C, Zhang Y, Beschastnikh I. Ladon: High-Performance and Secure Multi-BFT Consensus via Dynamic Global Ordering. The European Conference on Computer Systems (EuroSys). 2025. [CCF A]
+2. **Lyu H**, Xie S, Niu J, Beschastnikh I, Zhang Y, Sadoghi M, Feng C. Orthrus: Accelerating Multi-BFT Consensus for Blockchains by Transaction Partial Ordering. IEEE International Conference on Data Engineering (ICDE). [CCF A]
+3. **Lyu H**, Xie S, Niu J, Feng C. Byzantine Protocols with Asymptotically Optimal Communication Complexity. International Conference on Security and Privacy in Communication Networks (Securecomm). 2023. [CCF C]
+4. **Lyu H**, Niu J, Gai F, Feng C. Publish or Perish: Defending Withholding Attack in Dfinity Consensus. IEEE International Conference on Mobility, Sensing and Networking (MSN), 2021. [Best paper award，CCF C]
 
-Last updated: 2021/11/01.
+Last updated: 2025/4/02.
