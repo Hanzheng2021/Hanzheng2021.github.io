@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bios
 ------
-I am currently a PhD student at the University of British Columbia (UBC), under the supervision of [Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). I obtained my M.S. degree and B.E. degree from Beihang University (BUAA) in 2021 and 2018, respectively.
+I am currently a PhD student at the University of British Columbia (UBC), under the supervision of Prof.[Chen Feng](https://engineering.ok.ubc.ca/about/contact/chen-feng/). I obtained my M.S. degree and B.E. degree from Beihang University (BUAA) in 2021 and 2018, respectively.
 
 Publications
 ------
