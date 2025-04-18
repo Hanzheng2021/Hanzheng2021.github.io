@@ -22,9 +22,9 @@ Publications
 6.	Guan Z, **Lyu H**, Zheng H, Li D. Distributed Audit System of SDN Controller Based on Blockchain. International Conference on Smart Blockchain (SmartBlock). 2019. 
 7.	Wen X, Guan Z, Li D, **Lyu H**, Li H. A Blockchain-based Framework for Information Management in Internet of Vehicles. IEEE International Conference on Cyber Security and Cloud Computing (CSCloud)/ IEEE International Conference on Edge Computing and Scalable Cloud (EdgeCom), 2021.
 In submission：
-1.	**Lyu H**, Gai F, Niu J, Luan H, Tong F, Feng C. CERBERUS: An Efficient and Lightweight Blockchain Protocol for Large-scale Industrial IoT. IEEE Internet of Things Journal (IoTJ). [JCR Q1]
-2.	Zhou Y, Peng S, **Lyu H**, Tong F, Huang C, Niu J. Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation. IEEE Transactions on Vehicular Technology (TVT). [通信作者，JCR Q1]
-3.	Wen, X, Feng, Q, **Lyu, H**, Niu, J, Zhang, Y, Feng, C. TeeRollup: Efficient Rollup Design Using Heterogeneous TEE. IEEE Transactions on Computers (TC). [CCF A]
+1.	**Lyu H**, Gai F, Niu J, Luan H, Tong F, Feng C. CERBERUS: An Efficient and Lightweight Blockchain Protocol for Large-scale Industrial IoT. IEEE Internet of Things Journal (IoTJ). **[JCR Q1]**
+2.	Zhou Y, Peng S, **Lyu H**, Tong F, Huang C, Niu J. Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation. IEEE Transactions on Vehicular Technology (TVT). **[JCR Q1]**
+3.	Wen, X, Feng, Q, **Lyu, H**, Niu, J, Zhang, Y, Feng, C. TeeRollup: Efficient Rollup Design Using Heterogeneous TEE. IEEE Transactions on Computers (TC). **[CCF A]**
 
 Posters
 ------
