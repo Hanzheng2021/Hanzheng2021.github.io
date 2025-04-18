@@ -26,4 +26,7 @@ In submission：
 2.	Zhou Y, Peng S, **Lyu H**, Tong F, Huang C, Niu J. Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation. IEEE Transactions on Vehicular Technology (TVT). [通信作者，JCR Q1]
 3.	Wen, X, Feng, Q, **Lyu, H**, Niu, J, Zhang, Y, Feng, C. TeeRollup: Efficient Rollup Design Using Heterogeneous TEE. IEEE Transactions on Computers (TC). [CCF A]
 
+Posters
+------
+![EuroSys'25](./ladon.jpg "EuroSys'25")
 Last updated: 2025/4/17.
