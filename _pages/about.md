@@ -30,5 +30,5 @@ In submission
 
 Posters
 ------
-![EuroSys'25](./ladon.jpg "EuroSys'25")
+![EuroSys'25](../images/ladon.jpg "EuroSys'25")
 Last updated: 2025/4/17.
