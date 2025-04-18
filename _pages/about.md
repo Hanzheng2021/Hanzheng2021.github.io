@@ -30,5 +30,5 @@ In submission
 
 Posters
 ------
-![EuroSys'25](https://github.com/Hanzheng2021/Hanzheng2021.github.io/blob/master/images/ladon.jpg)
+![EuroSys'25](../images/ladon.jpg)
 Last updated: 2025/4/17.
