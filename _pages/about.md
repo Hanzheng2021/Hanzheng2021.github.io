@@ -44,7 +44,4 @@ Wen X, Feng Q, **Lyu H**, Niu J, Zhang Y, Feng C.
 *TeeRollup: Efficient Rollup Design Using Heterogeneous TEE.*
 
 
-Posters
-------
-![EuroSys'25](../images/ladon.jpg)
 Last updated: 2025/4/17.
